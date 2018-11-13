@@ -1,0 +1,102 @@
+.rows{
+    background-color: skyblue;
+}
+
+.container-fluid{
+    background-color:#DDF3FF;
+    
+    min-height: 40px;
+}
+
+.nav li{
+    list-style: none;
+}
+.nav li a{
+    float: left;
+    display: block;
+    width:  12.5%;
+    min-height: 30px;
+    line-height:38px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: #636363; 
+    /* background-color: #fff; */
+}
+.nav-head{
+    margin-top: 10px;
+}
+.nav li a:hover{
+    color: #4F94CD	;
+}
+.news{
+    margin-top: -20px;
+    color: #636363
+}
+.sp{
+    color: #418757;
+    margin-left: 10px;
+}
+
+.toutiao{
+    background-color: #fff;
+}
+.row-head{
+    margin-top: 10px;
+}
+.toutiao-p{
+    font-size: 18px;
+    text-align: center;
+    color:#636363;
+}
+.p{
+    margin-top:8px;
+}
+.show{
+    margin-top: 1px;
+    color: #636363;
+}
+.show-f{
+    background-color: #fff;
+}
+.show-f,.show-s,.show-b{
+    background-color: #fff;
+    width: 33%;
+    min-height: 200px;
+}
+.row-f{
+    min-height: 50px;
+    border-bottom: 1px solid #4F94CD
+}
+.row-ul{
+    margin-top: 10px;
+}
+.row-ul div{
+    min-height: 15px;
+}
+.row-li{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 20em;
+    margin-top: 10px;
+}
+.row-li a{
+    color: #333;
+    /* font-size: 12px; */
+}
+.row-li a:hover{
+    color: #418757;
+    /* font-size: 12px; */
+}
+.copy{
+    margin-top: 50px;
+    border-top: 1px solid #418757;
+    min-height: 40px; 
+}
+.copy p{
+    text-align: center;
+    line-height: 40px;
+    font-size: 16px;
+    color: #636363;
+}
